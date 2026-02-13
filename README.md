@@ -27,7 +27,7 @@ Este projeto é um **chatbot local** construído com `Streamlit` e a biblioteca 
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/HeitorDalla/local_chatbot.git
+git clone https://github.com/HeitorDalla/local-chatbot.git
 ```
 
 ### 2. Instalar Dependências
